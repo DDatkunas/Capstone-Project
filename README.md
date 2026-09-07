@@ -8,10 +8,10 @@ This project analyzes 4 years of sales data (2020-2023) for a fictional global B
 
 ### Repository Files:
 - [Report](report.pdf)
-- [Dashboard](capstone dashboard.pdf)
-- [Presentation](Capstone Presentation.pptx)
+- [Dashboard](capstone%20dashboard.pdf)
+- [Presentation](Capstone%20Presentation.pptx)
 - [Exploratory Data Analysis](EDA_capstone.ipynb)
-- Queries
+- [Queries](queries/)
 - [CLV projections](https://docs.google.com/spreadsheets/d/1PGQ1fIqZFh4WNdHvXrOx0peyRSV9aYM06ND5rzCpzUI/edit?usp=sharing)
 
 ### Key Findings
