@@ -18,7 +18,7 @@ This project analyzes 4 years of sales data (2020-2023) for a fictional global B
 - Where is profit loss occurring and how can we leverage high-value customer segments to drive further growth?
 
 ### Repository Files:
-- [Report](report.pdf)
+- [Report](Report.pdf)
 - [Dashboard](dashboard/)
 - [Presentation](Capstone%20Presentation.pptx)
 - [Exploratory Data Analysis](EDA_capstone.ipynb)
