@@ -1,5 +1,16 @@
 # Capstone Project
 ## Financial Growth Audit for a B2B SaaS Company
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3a77ad?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=flat&logo=googledocs&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 ### About the Project
 This project analyzes 4 years of sales data (2020-2023) for a fictional global B2B SaaS company. Dataset consists of nearly 10,000 data on sales transactions and can be accessed [here](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales/data).
 
@@ -8,7 +19,7 @@ This project analyzes 4 years of sales data (2020-2023) for a fictional global B
 
 ### Repository Files:
 - [Report](report.pdf)
-- [Dashboard](capstone%20dashboard.pdf)
+- [Dashboard](dashboard/)
 - [Presentation](Capstone%20Presentation.pptx)
 - [Exploratory Data Analysis](EDA_capstone.ipynb)
 - [Queries](queries/)
@@ -25,8 +36,6 @@ This project analyzes 4 years of sales data (2020-2023) for a fictional global B
    This massive financial runway indicates that the company is fully prepared to fund new customer acquisition campaigns using an acceptable acquisition cost benchmark between $8.4k and $14k.
 6. RFM analysis confirms that 55 out of the 99 active enterprise clients are clustered as high-value Champions or Loyal Customers, providing a highly reliable foundation for future recurring revenue.
    With only 4 total accounts flagged as being actively at risk or valuable clients with low recency, the company maintains a highly secure, satisfied, and predictable core enterprise base.
-
-
 
 
 
