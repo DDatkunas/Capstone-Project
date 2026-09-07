@@ -7,9 +7,9 @@ This project analyzes 4 years of sales data (2020-2023) for a fictional global B
 - Where is profit loss occurring and how can we leverage high-value customer segments to drive further growth?
 
 ### Repository Files:
-- [Report](https://docs.google.com/document/d/1le7meVvKNU3kwaUBu1yhm_dDuoEiFf9qrQTTpCjVdMo/edit?tab=t.0)
-- Dashboard
-- Presentation
+- [Report](report.pdf)
+- [Dashboard](capstone_dashboard.pdf)
+- [Presentation]
 - Exploratory Data Analysis
 - Queries
 - [CLV projections](https://docs.google.com/spreadsheets/d/1PGQ1fIqZFh4WNdHvXrOx0peyRSV9aYM06ND5rzCpzUI/edit?usp=sharing)
