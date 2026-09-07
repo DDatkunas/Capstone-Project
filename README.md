@@ -3,7 +3,7 @@
 ### About the Project
 This project analyzes 4 years of sales data (2020-2023) for a fictional global B2B SaaS company. Dataset consists of nearly 10,000 data on sales transactions and can be accessed [here](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales/data).
 
-The **core business objective** of this project is: 
+**The Core Business Objective**: 
 - Where is profit loss occurring and how can we leverage high-value customer segments to drive further growth?
 
 ### Repository Files:
