@@ -11,13 +11,16 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 ### About the Project
 This project analyzes 4 years of sales data (2020-2023) for a fictional global B2B SaaS company. Dataset consists of nearly 10,000 data on sales transactions and can be accessed [here](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales/data).
 
-**The Core Business Objective**: 
+---
+### The Core Business Objective
 - Where is profit loss occurring and how can we leverage high-value customer segments to drive further growth?
 
-### Repository Files:
+---
+### Repository Files
 - [Report](Report.pdf)
 - [Dashboard](dashboard/)
 - [Presentation](Capstone%20Presentation.pptx)
@@ -25,6 +28,7 @@ This project analyzes 4 years of sales data (2020-2023) for a fictional global B
 - [Queries](queries/)
 - [CLV projections](https://docs.google.com/spreadsheets/d/1PGQ1fIqZFh4WNdHvXrOx0peyRSV9aYM06ND5rzCpzUI/edit?usp=sharing)
 
+---
 ### Key Findings
 1. Over the 4-year analysis period, the company demonstrated impressive financial growth, achieving a 68% increase in MRR and a 142% increase in monthly profits by the end of 2023. 
 2. Excessive discounting emerged as the primary driver of profit loss, with an A/B test proving that 98% of transactions with discounts over 20% resulted in a total loss of $135.3k.
@@ -38,7 +42,7 @@ This project analyzes 4 years of sales data (2020-2023) for a fictional global B
    With only 4 total accounts flagged as being actively at risk or valuable clients with low recency, the company maintains a highly secure, satisfied, and predictable core enterprise base.
 
 
-
+---
 ### Tools Used
 - Python (Pandas) - Data Cleaning, Transformation and Exploration
 - SQL (BigQuery) - Data Analysis
