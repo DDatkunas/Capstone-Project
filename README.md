@@ -12,15 +12,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-### About the Project
+## About the Project
 This project analyzes 4 years of sales data (2020-2023) for a fictional global B2B SaaS company. Dataset consists of nearly 10,000 data on sales transactions and can be accessed [here](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales/data).
 
 ---
-### The Core Business Objective
+## The Core Business Objective
 - Where is profit loss occurring and how can we leverage high-value customer segments to drive further growth?
 
+### Preview
+<img width="827" height="461" alt="image" src="https://github.com/user-attachments/assets/e33abc29-8c27-4c50-a12b-b78b41ea82b8" />
+
 ---
-### Repository Files
+## Repository Files
 - [Report](Report.pdf)
 - [Dashboard](dashboard/)
 - [Presentation](Capstone%20Presentation.pptx)
@@ -29,7 +32,7 @@ This project analyzes 4 years of sales data (2020-2023) for a fictional global B
 - [CLV projections](https://docs.google.com/spreadsheets/d/1PGQ1fIqZFh4WNdHvXrOx0peyRSV9aYM06ND5rzCpzUI/edit?usp=sharing)
 
 ---
-### Key Findings
+## Key Findings
 1. Over the 4-year analysis period, the company demonstrated impressive financial growth, achieving a 68% increase in MRR and a 142% increase in monthly profits by the end of 2023. 
 2. Excessive discounting emerged as the primary driver of profit loss, with an A/B test proving that 98% of transactions with discounts over 20% resulted in a total loss of $135.3k.
    This margin erosion is highly visible in the Asia-Pacific region, where subregions like Japan and Australia became entirely unprofitable due to extreme 37% average discount rates.
@@ -40,10 +43,33 @@ This project analyzes 4 years of sales data (2020-2023) for a fictional global B
    This massive financial runway indicates that the company is fully prepared to fund new customer acquisition campaigns using an acceptable acquisition cost benchmark between $8.4k and $14k.
 6. RFM analysis confirms that 55 out of the 99 active enterprise clients are clustered as high-value Champions or Loyal Customers, providing a highly reliable foundation for future recurring revenue.
    With only 4 total accounts flagged as being actively at risk or valuable clients with low recency, the company maintains a highly secure, satisfied, and predictable core enterprise base.
+   
+---
+## Recommendations
+1. Establish Strict Discount Caps 
+    - Cap standard sales discounts at a hard maximum of 20%.
+    - Eliminate regional discounting practices.
+2. Search for new customers to break the 3-year stagnation
+    - Actively expand the user base by launching marketing campaigns to attract fresh enterprise clients.
+    - Customer acquisition budget should be between $8.4k and $14k per new account.
+3. Prioritise high value customer segments
+    - Personalized marketing strategies to investigate further upselling, cross-selling opportunities for 55 Champions/Loyal Customers.
+    - Send customer surveys to 4 customers in “At Risk” and “Can’t Lose Them” segments.
+4. Investigate the reason for Marketing Suite’s unprofitability
+    - Organize an A/B test to determine if it’s worth to continue selling “Marketing Suite” product.
+    - Compare it against “Marketing Suite - Gold”.
 
 
 ---
-### Tools Used
+
+## Dataset Limitations
+
+- Unfortunately, this dataset includes only the total value of the transaction, not the value of the month-by-month cash flows.
+- Customer cancellations are unrecorded, resulting in an unrealistic 100% retention rate and limiting churn analysis.
+- Lack of Customer Acquisition Cost (CAC) data prevents calculating the CLV:CAC ratio.
+
+---
+## Tools Used
 - Python (Pandas) - Data Cleaning, Transformation and Exploration
 - SQL (BigQuery) - Data Analysis
 - PowerBI, DAX - Data Visualization
