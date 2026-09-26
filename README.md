@@ -56,7 +56,7 @@ This project analyzes 4 years of sales data (2020-2023) for a fictional global B
     - Personalized marketing strategies to investigate further upselling, cross-selling opportunities for 55 Champions/Loyal Customers.
     - Send customer surveys to 4 customers in “At Risk” and “Can’t Lose Them” segments.
 4. Investigate the reason for Marketing Suite’s unprofitability
-    - Organize an A/B test to determine if it’s worth to continue selling “Marketing Suite” product.
+    - Conduct an A/B test to determine if it’s worth to continue selling “Marketing Suite” product.
     - Compare it against “Marketing Suite - Gold”.
 
 
